@@ -1,6 +1,8 @@
 # Instagram Klon Uygulaması
 
 Bu proje, HTML, CSS ve Bootstrap kullanılarak geliştirilmiş bir Instagram klon uygulamasıdır. Amacı, Instagram'ın temel özelliklerini ve tasarımını taklit ederek kullanıcıların bu teknolojileri öğrenmesine ve pratik yapmasına yardımcı olmaktır.
+![Ekran görüntüsü 2024-08-30 114107](https://github.com/user-attachments/assets/ca037a21-ac8f-4cfa-8723-b4a7f180b765)
+
 
 ## İçindekiler
 
