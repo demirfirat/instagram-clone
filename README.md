@@ -9,8 +9,6 @@ Bu proje, HTML, CSS ve Bootstrap kullanılarak geliştirilmiş bir Instagram klo
 - [Kurulum](#kurulum)
 - [Kullanım](#kullanım)
 - [Katkıda Bulunma](#katkıda-bulunma)
-- [Lisans](#lisans)
-
 ## Özellikler
 
 - **Kullanıcı Arayüzü:** Instagram'ın ana sayfasına benzer bir arayüz tasarımı.
@@ -37,5 +35,9 @@ Projeyi yerel ortamınıza kurmak için aşağıdaki adımları izleyin:
 ```
 cd instagramclone
 ```
+## Kullanım
+Bu projeyi kişisel çalışmalarınızda veya eğitim amaçlı olarak kullanabilirsiniz. Yeni özellikler ekleyebilir veya mevcut özellikleri geliştirebilirsiniz.
 
 
+## Katkıda Bulunma
+Katkıda bulunmak isterseniz, lütfen bir **pull request** gönderin veya benimle iletişime geçin. Tüm katkılar memnuniyetle karşılanır!
